@@ -1,20 +1,24 @@
-First bootcamp project, it is a task agenda, where you can create, modify the status and delete tasks, modify the email or password.
+# First App
 
-Functional Description
+##  Intro
 
-Use Cases 
+This is my first project, it is a task agenda, it contains a registration page, a login page and a settings page. You can create, modify and delete tasks, also categorize them by their status (all, doing, done), modify the email, name and password.
+
+## Functional Description
+
+## Use Cases 
 
 User
 
-Create a tasks
-Update a task
-Delete a task
-Change status
-Change password
-Change email
+- Create a tasks
+- Update a task
+- Delete a task
+- Change status
+- Change password
+- Change email
 
-Technologies
+## Technologies
 
-JavaScript
-React
-Tailwind
+- JavaScript
+- React
+- Tailwind
